@@ -29,7 +29,7 @@ A complete setup guide for configuring a Linux-based deep learning environment u
     This repository documents the setup and workflow practices I worked on during my summer university technical work experience.
     All sensitive/internal server information has been removed before publication.
 
-## Files
+## Files Structure:
     - "setup-guide.pdf" → Full installation and configuration guide
     - "README.md" →  Repository overview
     - "CUDA_Toolkit _installed.pdf" → Cuda installation guide(In case the GPU => heavy task)
